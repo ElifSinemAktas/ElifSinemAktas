@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ElifSinemAktas
 - 👀 I’m an Architect and I'm interested in Data Engineering
-- Here is my current professional profile --> @ESinemAktas 
